@@ -1,7 +1,5 @@
 # FlyAndCollect
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 FlyAndCollect is an exciting game created in Scratch. Take control of a cute character as it flies through the sky, collecting items. Each time you collect an item, your score increases by one. The environment is filled with moving buildings and clouds to enhance the flying experience.
 
 ## Features
